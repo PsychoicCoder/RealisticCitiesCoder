@@ -1,0 +1,8 @@
+{
+    "parent": "realisticcitiescoder:block/flat",
+    "textures": {
+        "all": "realisticcitiescoder:block/handicap_ind",
+        "particle": "realisticcitiescoder:block/handicap_ind",
+        "0": "realisticcitiescoder:block/handicap_ind"
+    }
+}

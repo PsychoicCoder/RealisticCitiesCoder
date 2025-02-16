@@ -1,0 +1,8 @@
+{
+    "parent": "realisticcitiescoder:block/flat_large",
+    "textures": {
+      "all": "realisticcitiescoder:block/right_arrow",
+      "particle": "realisticcitiescoder:block/right_arrow",
+      "0": "realisticcitiescoder:block/right_arrow"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "vending_machine_release": {
+    "sounds": [
+      {
+        "name": "realisticcitiescoder:vending_machine_release",
+        "stream": true
+      }
+    ]
+  },
+  "vending_machine_flap": {
+    "sounds": [
+      {
+        "name": "realisticcitiescoder:vending_machine_flap",
+        "stream": true
+      }
+    ]
+  }
+}

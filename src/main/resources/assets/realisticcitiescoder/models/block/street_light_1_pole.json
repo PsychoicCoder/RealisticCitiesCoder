@@ -1,0 +1,43 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "realisticcitiescoder:block/street_light_pole",
+		"particle": "realisticcitiescoder:block/street_light_pole"
+	},
+	"elements": [
+		{
+			"from": [7, 12, 0],
+			"to": [9, 15, 6],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [0, 6, 2, 9], "texture": "#0"},
+				"east": {"uv": [2, 3, 8, 6], "texture": "#0"},
+				"south": {"uv": [2, 6, 4, 9], "texture": "#0"},
+				"west": {"uv": [2, 0, 8, 3], "texture": "#0"},
+				"up": {"uv": [2, 6, 0, 0], "texture": "#0"},
+				"down": {"uv": [10, 0, 8, 6], "texture": "#0"}
+			}
+		},
+		{
+			"from": [6, 0, 6],
+			"to": [10, 16, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 2, 8], "texture": "#0"},
+				"east": {"uv": [2, 0, 4, 8], "texture": "#0"},
+				"south": {"uv": [4, 0, 6, 8], "texture": "#0"},
+				"west": {"uv": [6, 0, 8, 8], "texture": "#0"},
+				"up": {"uv": [0, 10, 2, 8], "texture": "#0"},
+				"down": {"uv": [8, 0, 10, 2], "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "VoxelShapes",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": [0, 1]
+		}
+	]
+}

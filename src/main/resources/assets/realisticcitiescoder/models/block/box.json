@@ -1,0 +1,12 @@
+{
+    "parent": "minecraft:block/cube",
+    "textures": {
+        "up": "realisticcitiescoder:block/box_top",
+        "down": "realisticcitiescoder:block/box_side_1",
+        "north": "realisticcitiescoder:block/box_side_2",
+        "south": "realisticcitiescoder:block/box_side_2",
+        "east": "realisticcitiescoder:block/box_side_1",
+        "west": "realisticcitiescoder:block/box_side_1",
+        "particle": "realisticcitiescoder:block/box_top"
+    }
+}

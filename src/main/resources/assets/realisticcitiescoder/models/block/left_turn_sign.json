@@ -1,0 +1,7 @@
+{
+	"parent": "realisticcitiescoder:block/warning_sign",
+	"textures": {
+		"1": "realisticcitiescoder:block/left_turn_sign",
+		"particle": "realisticcitiescoder:block/left_turn_sign"
+	}
+}

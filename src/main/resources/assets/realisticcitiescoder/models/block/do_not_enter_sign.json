@@ -1,0 +1,7 @@
+{
+	"parent": "realisticcitiescoder:block/regulatory_sign",
+	"textures": {
+		"0": "realisticcitiescoder:block/do_not_enter_sign",
+		"particle": "realisticcitiescoder:block/do_not_enter_sign"
+	}
+}

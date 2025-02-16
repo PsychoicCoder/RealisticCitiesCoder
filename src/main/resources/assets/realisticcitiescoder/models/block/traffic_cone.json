@@ -1,0 +1,7 @@
+{
+	"parent": "realisticcitiescoder:block/cone",
+	"textures": {
+		"0": "realisticcitiescoder:block/traffic_cone",
+		"particle": "realisticcitiescoder:block/traffic_cone"
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"parent": "realisticcitiescoder:block/manhole_cover_base",
+	"textures": {
+		"0": "realisticcitiescoder:block/manhole_cover",
+		"particle": "realisticcitiescoder:block/manhole_cover"
+	}
+}

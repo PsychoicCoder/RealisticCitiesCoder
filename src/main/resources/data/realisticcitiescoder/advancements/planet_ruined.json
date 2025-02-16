@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "item": "realisticcitiescoder:road"
+        },
+        "title": "Planet Ruined!",
+        "description": "Obtain a road.",
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "background": "realisticcitiescoder:textures/block/road.png"
+    },
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "player": { },
+                "items": [
+                    {
+                        "tag": "realisticcitiescoder:road"
+                    }
+                ]
+            }
+        }
+    }
+}

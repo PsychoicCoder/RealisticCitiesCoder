@@ -1,0 +1,8 @@
+{
+    "parent": "realisticcitiescoder:block/flat",
+    "textures": {
+      "all": "realisticcitiescoder:block/bike_lane_ind",
+      "particle": "realisticcitiescoder:block/bike_lane_ind",
+      "0": "realisticcitiescoder:block/bike_lane_ind"
+  }
+}

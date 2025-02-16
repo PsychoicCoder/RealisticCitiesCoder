@@ -1,0 +1,7 @@
+{
+    "parent": "realisticcitiescoder:block/pole",
+    "textures": {
+        "0": "realisticcitiescoder:block/gray_pole",
+        "particle": "realisticcitiescoder:block/gray_pole"
+    }
+}

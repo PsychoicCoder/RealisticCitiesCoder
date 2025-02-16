@@ -1,0 +1,7 @@
+{
+	"parent": "realisticcitiescoder:block/regulatory_sign",
+	"textures": {
+		"0": "realisticcitiescoder:block/no_u_turn_sign",
+		"particle": "realisticcitiescoder:block/no_u_turn_sign"
+	}
+}

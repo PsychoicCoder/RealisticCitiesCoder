@@ -1,0 +1,7 @@
+{
+  "parent": "realisticcitiescoder:block/vertical_slab_all",
+  "textures": {
+    "all": "realisticcitiescoder:block/beige_bricks"
+  }
+}
+

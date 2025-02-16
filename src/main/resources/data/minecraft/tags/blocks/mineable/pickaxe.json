@@ -1,0 +1,24 @@
+{
+    "replace": false,
+    "values": [
+        "realisticcitiescoder:white_bricks",
+        "realisticcitiescoder:white_bricks_slab",
+        "realisticcitiescoder:road",
+        "realisticcitiescoder:road_with_straight_yellow_line",
+        "realisticcitiescoder:road_with_straight_white_line",
+        "realisticcitiescoder:road_with_double_straight_yellow_line",
+        "realisticcitiescoder:road_with_double_straight_white_line",
+        "realisticcitiescoder:road_with_straight_yellow_line_side",
+        "realisticcitiescoder:road_with_straight_white_line_side",
+        "realisticcitiescoder:road_with_corner_yellow_line",
+        "realisticcitiescoder:road_with_corner_white_line",
+        "realisticcitiescoder:road_with_small_corner_yellow_line",
+        "realisticcitiescoder:road_with_small_corner_white_line",
+        "realisticcitiescoder:median_yellow",
+        "realisticcitiescoder:median_white",
+        "realisticcitiescoder:bike_median",
+        "realisticcitiescoder:bike_lane",
+        "realisticcitiescoder:bike_lane_corner",
+        "realisticcitiescoder:bike_lane_side"
+    ]
+}

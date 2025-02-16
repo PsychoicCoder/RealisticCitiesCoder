@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "values": [
+        "realisticcitiescoder:concrete_wall",
+        "realisticcitiescoder:black_brick_wall",
+        "realisticcitiescoder:beige_brick_wall"
+    ]
+}
