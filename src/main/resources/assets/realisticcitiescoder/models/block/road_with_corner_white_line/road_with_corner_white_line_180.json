@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "up": "realisticcitiescoder:block/road_with_corner_white_line_180",
+    "down": "realisticcitiescoder:block/road_with_corner_white_line_90",
+    "north": "realisticcitiescoder:block/road_with_straight_white_line_side",
+    "south": "realisticcitiescoder:block/road",
+    "east": "realisticcitiescoder:block/road",
+    "west": "realisticcitiescoder:block/road_with_straight_white_line_side_180",
+    "particle": "realisticcitiescoder:block/road_with_corner_white_line_180"
+  }
+}

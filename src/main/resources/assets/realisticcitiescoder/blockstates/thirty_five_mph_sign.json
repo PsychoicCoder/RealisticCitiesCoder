@@ -1,0 +1,21 @@
+{
+    "variants": {
+        "facing=east": {
+            "model": "realisticcitiescoder:block/mph_sign/35_mph_sign",
+            "y": 270
+        },
+        "facing=north": {
+            "model": "realisticcitiescoder:block/mph_sign/35_mph_sign",
+            "y": 180
+        },
+        "facing=west": {
+            "model": "realisticcitiescoder:block/mph_sign/35_mph_sign",
+            "y": 90
+        },
+        "facing=south": {
+            "model": "realisticcitiescoder:block/mph_sign/35_mph_sign",
+            "y": 0
+        }
+    }
+}
+  

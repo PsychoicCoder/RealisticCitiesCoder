@@ -1,0 +1,21 @@
+{
+    "variants": {
+        "facing=east": {
+            "model": "realisticcitiescoder:block/street_light_1_pole",
+            "y": 270
+        },
+        "facing=north": {
+            "model": "realisticcitiescoder:block/street_light_1_pole",
+            "y": 180
+        },
+        "facing=west": {
+            "model": "realisticcitiescoder:block/street_light_1_pole",
+            "y": 90
+        },
+        "facing=south": {
+            "model": "realisticcitiescoder:block/street_light_1_pole",
+            "y": 0
+        }
+    }
+}
+  

@@ -1,0 +1,7 @@
+{
+    "parent": "realisticcitiescoder:block/tactile_paving/blister_tactile_paving",
+    "textures": {
+        "0": "realisticcitiescoder:block/tactile_paving/yellow_tactile_paving",
+        "particle": "realisticcitiescoder:block/tactile_paving/yellow_tactile_paving"
+    }
+}

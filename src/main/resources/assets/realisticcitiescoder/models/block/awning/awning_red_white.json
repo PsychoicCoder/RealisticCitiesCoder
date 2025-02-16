@@ -1,0 +1,7 @@
+{
+  "parent": "realisticcitiescoder:block/awning/awning",
+  "textures": {
+    "0": "realisticcitiescoder:block/awning/awning_red_white",
+    "particle": "realisticcitiescoder:block/awning/awning_red_white"
+  }
+}

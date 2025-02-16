@@ -1,0 +1,21 @@
+{
+    "variants": {
+        "facing=east": {
+            "model": "realisticcitiescoder:block/handicap_ind",
+            "y": 270
+        },
+        "facing=north": {
+            "model": "realisticcitiescoder:block/handicap_ind",
+            "y": 180
+        },
+        "facing=west": {
+            "model": "realisticcitiescoder:block/handicap_ind",
+            "y": 90
+        },
+        "facing=south": {
+            "model": "realisticcitiescoder:block/handicap_ind",
+            "y": 0
+        }
+    }
+}
+  

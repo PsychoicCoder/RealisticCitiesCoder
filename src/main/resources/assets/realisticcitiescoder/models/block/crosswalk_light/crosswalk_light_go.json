@@ -1,0 +1,7 @@
+{
+    "parent": "realisticcitiescoder:block/crosswalk_light/crosswalk_light",
+    "textures": {
+        "0": "realisticcitiescoder:block/crosswalk_light/crosswalk_light_go",
+        "particle": "realisticcitiescoder:block/crosswalk_light/crosswalk_light_go"
+    }
+}

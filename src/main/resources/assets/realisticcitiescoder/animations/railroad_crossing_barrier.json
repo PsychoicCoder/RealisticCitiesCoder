@@ -1,0 +1,40 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.railroad_crossing.down": {
+			"animation_length": 3,
+			"start_delay": "2",
+			"bones": {
+				"barrier": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"2.0": {
+							"vector": [0, 0, -80],
+							"easing": "easeInOutSine"
+						}
+					}
+				}
+			}
+		},
+		"animation.railroad_crossing.up": {
+			"animation_length": 3,
+			"start_delay": "2",
+			"bones": {
+				"barrier": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, -80]
+						},
+						"2.0": {
+							"vector": [0, 0, 0],
+							"easing": "easeInOutSine"
+						}
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

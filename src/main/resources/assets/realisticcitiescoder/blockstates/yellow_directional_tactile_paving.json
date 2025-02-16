@@ -1,0 +1,21 @@
+{
+    "variants": {
+        "facing=east": {
+            "model": "realisticcitiescoder:block/tactile_paving/yellow_directional_tactile_paving",
+            "y": 90
+        },
+        "facing=north": {
+            "model": "realisticcitiescoder:block/tactile_paving/yellow_directional_tactile_paving",
+            "y": 0
+        },
+        "facing=west": {
+            "model": "realisticcitiescoder:block/tactile_paving/yellow_directional_tactile_paving",
+            "y": 270
+        },
+        "facing=south": {
+            "model": "realisticcitiescoder:block/tactile_paving/yellow_directional_tactile_paving",
+            "y": 180
+        }
+    }
+}
+  

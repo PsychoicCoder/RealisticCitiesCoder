@@ -1,0 +1,9 @@
+{
+	"parent": "realisticcitiescoder:block/speed_limit_sign_usa",
+	"textures": {
+		"0": "realisticcitiescoder:block/15_mph",
+		"particle": "realisticcitiescoder:block/15_mph"
+	}
+}
+
+

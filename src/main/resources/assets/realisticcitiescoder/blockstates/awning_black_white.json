@@ -1,0 +1,21 @@
+{
+    "variants": {
+        "facing=east": {
+            "model": "realisticcitiescoder:block/awning/awning_black_white",
+            "y": 90
+        },
+        "facing=north": {
+            "model": "realisticcitiescoder:block/awning/awning_black_white",
+            "y": 0
+        },
+        "facing=west": {
+            "model": "realisticcitiescoder:block/awning/awning_black_white",
+            "y": 270
+        },
+        "facing=south": {
+            "model": "realisticcitiescoder:block/awning/awning_black_white",
+            "y": 180
+        }
+    }
+}
+  

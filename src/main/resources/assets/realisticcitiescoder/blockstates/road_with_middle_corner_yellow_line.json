@@ -1,0 +1,17 @@
+{
+    "variants": {
+        "facing=east": {
+            "model": "realisticcitiescoder:block/road_with_middle_corner_yellow_line/road_with_middle_corner_yellow_line_90"
+        },
+        "facing=north": {
+            "model": "realisticcitiescoder:block/road_with_middle_corner_yellow_line/road_with_middle_corner_yellow_line"
+        },
+        "facing=west": {
+            "model": "realisticcitiescoder:block/road_with_middle_corner_yellow_line/road_with_middle_corner_yellow_line_270"
+        },
+        "facing=south": {
+            "model": "realisticcitiescoder:block/road_with_middle_corner_yellow_line/road_with_middle_corner_yellow_line_180"
+        }
+    }
+}
+  

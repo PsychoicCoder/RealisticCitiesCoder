@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "type=bottom": {
+            "model": "realisticcitiescoder:block/concrete_slab/concrete_slab"
+        },
+        "type=double": {
+            "model": "realisticcitiescoder:block/concrete"
+        },
+        "type=top": {
+            "model": "realisticcitiescoder:block/concrete_slab/concrete_slab_top"
+        }
+    }
+}
+  

@@ -1,0 +1,12 @@
+{
+    "parent": "minecraft:block/cube_all",
+    "textures": {
+        "up": "realisticcitiescoder:block/single_median_white",
+        "down": "realisticcitiescoder:block/single_median_white",
+        "north": "realisticcitiescoder:block/single_median_white",
+        "south": "realisticcitiescoder:block/single_median_white",
+        "east": "realisticcitiescoder:block/single_median_white",
+        "west": "realisticcitiescoder:block/single_median_white",
+        "particle": "realisticcitiescoder:block/single_median_white"
+    }
+}

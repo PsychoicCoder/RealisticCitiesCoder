@@ -1,0 +1,59 @@
+{
+    "variants": {
+        "facing=north,crosswalk_light=go": {
+            "model": "realisticcitiescoder:block/crosswalk_light/crosswalk_light_go"
+        },
+        "facing=east,crosswalk_light=go": {
+            "model": "realisticcitiescoder:block/crosswalk_light/crosswalk_light_go",
+            "uvlock": false,
+            "y": 90
+        },
+        "facing=south,crosswalk_light=go": {
+            "model": "realisticcitiescoder:block/crosswalk_light/crosswalk_light_go",
+            "uvlock": false,
+            "y": 180
+        },
+        "facing=west,crosswalk_light=go": {
+            "model": "realisticcitiescoder:block/crosswalk_light/crosswalk_light_go",
+            "uvlock": false,
+            "y": 270
+        },
+        "facing=north,crosswalk_light=stop": {
+            "model": "realisticcitiescoder:block/crosswalk_light/crosswalk_light_stop"
+        },
+        "facing=east,crosswalk_light=stop": {
+            "model": "realisticcitiescoder:block/crosswalk_light/crosswalk_light_stop",
+            "uvlock": false,
+            "y": 90
+        },
+        "facing=south,crosswalk_light=stop": {
+            "model": "realisticcitiescoder:block/crosswalk_light/crosswalk_light_stop",
+            "uvlock": false,
+            "y": 180
+        },
+        "facing=west,crosswalk_light=stop": {
+            "model": "realisticcitiescoder:block/crosswalk_light/crosswalk_light_stop",
+            "uvlock": false,
+            "y": 270
+        },
+        "facing=north,crosswalk_light=stop_flashing": {
+            "model": "realisticcitiescoder:block/crosswalk_light/crosswalk_light_stop_flashing"
+        },
+        "facing=east,crosswalk_light=stop_flashing": {
+            "model": "realisticcitiescoder:block/crosswalk_light/crosswalk_light_stop_flashing",
+            "uvlock": false,
+            "y": 90
+        },
+        "facing=south,crosswalk_light=stop_flashing": {
+            "model": "realisticcitiescoder:block/crosswalk_light/crosswalk_light_stop_flashing",
+            "uvlock": false,
+            "y": 180
+        },
+        "facing=west,crosswalk_light=stop_flashing": {
+            "model": "realisticcitiescoder:block/crosswalk_light/crosswalk_light_stop_flashing",
+            "uvlock": false,
+            "y": 270
+        }
+    }
+}
+  

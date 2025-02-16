@@ -1,0 +1,8 @@
+{
+	"parent": "minecraft:block/slab",
+	"textures": {
+	  "bottom": "realisticcitiescoder:block/concrete",
+	  "side": "realisticcitiescoder:block/concrete",
+	  "top": "realisticcitiescoder:block/concrete"
+	}
+  }

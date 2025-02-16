@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "type=bottom": {
+            "model": "realisticcitiescoder:block/beige_brick_slab/beige_brick_slab"
+        },
+        "type=double": {
+            "model": "realisticcitiescoder:block/beige_bricks"
+        },
+        "type=top": {
+            "model": "realisticcitiescoder:block/beige_brick_slab/beige_brick_slab_top"
+        }
+    }
+}
+  

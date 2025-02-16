@@ -1,0 +1,7 @@
+{
+    "parent": "realisticcitiescoder:block/traffic_light_hanging/traffic_light_hanging",
+    "textures": {
+        "0": "realisticcitiescoder:block/traffic_light/traffic_light_red",
+        "particle": "realisticcitiescoder:block/traffic_light/traffic_light_red"
+    }
+}

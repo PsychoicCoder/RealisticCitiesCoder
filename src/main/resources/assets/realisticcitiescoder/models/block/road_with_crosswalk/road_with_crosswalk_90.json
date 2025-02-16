@@ -1,0 +1,12 @@
+{
+    "parent": "minecraft:block/cube",
+    "textures": {
+        "up": "realisticcitiescoder:block/road_with_crosswalk_90",
+        "down": "realisticcitiescoder:block/road_with_crosswalk_90",
+        "north": "realisticcitiescoder:block/road",
+        "south": "realisticcitiescoder:block/road",
+        "east": "realisticcitiescoder:block/road_with_crosswalk",
+        "west": "realisticcitiescoder:block/road_with_crosswalk",
+        "particle": "realisticcitiescoder:block/road_with_crosswalk_90"
+    }
+}

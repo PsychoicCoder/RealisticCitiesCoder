@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:block/outer_stairs",
+    "textures": {
+      "bottom": "realisticcitiescoder:block/black_bricks",
+      "side": "realisticcitiescoder:block/black_bricks",
+      "top": "realisticcitiescoder:block/black_bricks"
+    }
+}

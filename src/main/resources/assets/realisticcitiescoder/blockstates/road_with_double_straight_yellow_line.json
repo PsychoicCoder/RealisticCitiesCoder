@@ -1,0 +1,17 @@
+{
+    "variants": {
+        "facing=east": {
+            "model": "realisticcitiescoder:block/road_with_double_straight_yellow_line/road_with_double_straight_yellow_line_90"
+        },
+        "facing=north": {
+            "model": "realisticcitiescoder:block/road_with_double_straight_yellow_line/road_with_double_straight_yellow_line"
+        },
+        "facing=west": {
+            "model": "realisticcitiescoder:block/road_with_double_straight_yellow_line/road_with_double_straight_yellow_line_90"
+        },
+        "facing=south": {
+            "model": "realisticcitiescoder:block/road_with_double_straight_yellow_line/road_with_double_straight_yellow_line"
+        }
+    }
+}
+  

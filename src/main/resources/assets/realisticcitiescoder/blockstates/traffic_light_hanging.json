@@ -1,0 +1,58 @@
+{
+    "variants": {
+        "facing=north,traffic_light=green": {
+            "model": "realisticcitiescoder:block/traffic_light_hanging/traffic_light_hanging_green"
+        },
+        "facing=east,traffic_light=green": {
+            "model": "realisticcitiescoder:block/traffic_light_hanging/traffic_light_hanging_green",
+            "uvlock": false,
+            "y": 90
+        },
+        "facing=south,traffic_light=green": {
+            "model": "realisticcitiescoder:block/traffic_light_hanging/traffic_light_hanging_green",
+            "uvlock": false,
+            "y": 180
+        },
+        "facing=west,traffic_light=green": {
+            "model": "realisticcitiescoder:block/traffic_light_hanging/traffic_light_hanging_green",
+            "uvlock": false,
+            "y": 270
+        },
+        "facing=north,traffic_light=yellow": {
+            "model": "realisticcitiescoder:block/traffic_light_hanging/traffic_light_hanging_yellow"
+        },
+        "facing=east,traffic_light=yellow": {
+            "model": "realisticcitiescoder:block/traffic_light_hanging/traffic_light_hanging_yellow",
+            "uvlock": false,
+            "y": 90
+        },
+        "facing=south,traffic_light=yellow": {
+            "model": "realisticcitiescoder:block/traffic_light_hanging/traffic_light_hanging_yellow",
+            "uvlock": false,
+            "y": 180
+        },
+        "facing=west,traffic_light=yellow": {
+            "model": "realisticcitiescoder:block/traffic_light_hanging/traffic_light_hanging_yellow",
+            "uvlock": false,
+            "y": 270
+        },
+        "facing=north,traffic_light=red": {
+            "model": "realisticcitiescoder:block/traffic_light_hanging/traffic_light_hanging_red"
+        },
+        "facing=east,traffic_light=red": {
+            "model": "realisticcitiescoder:block/traffic_light_hanging/traffic_light_hanging_red",
+            "uvlock": false,
+            "y": 90
+        },
+        "facing=south,traffic_light=red": {
+            "model": "realisticcitiescoder:block/traffic_light_hanging/traffic_light_hanging_red",
+            "uvlock": false,
+            "y": 180
+        },
+        "facing=west,traffic_light=red": {
+            "model": "realisticcitiescoder:block/traffic_light_hanging/traffic_light_hanging_red",
+            "uvlock": false,
+            "y": 270
+        }
+    }
+}

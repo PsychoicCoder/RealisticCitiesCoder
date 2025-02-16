@@ -1,0 +1,17 @@
+{
+    "variants": {
+        "facing=east": {
+            "model": "realisticcitiescoder:block/road_with_straight_white_line/road_with_straight_white_line_90"
+        },
+        "facing=north": {
+            "model": "realisticcitiescoder:block/road_with_straight_white_line/road_with_straight_white_line"
+        },
+        "facing=west": {
+            "model": "realisticcitiescoder:block/road_with_straight_white_line/road_with_straight_white_line_90"
+        },
+        "facing=south": {
+            "model": "realisticcitiescoder:block/road_with_straight_white_line/road_with_straight_white_line"
+        }
+    }
+}
+  

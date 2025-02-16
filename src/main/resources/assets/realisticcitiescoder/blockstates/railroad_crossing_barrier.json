@@ -1,0 +1,22 @@
+{
+    "variants": {
+        "facing=north": {
+            "model": "realisticcitiescoder:block/vending_machine/vending_machine"
+        },
+        "facing=east": {
+            "model": "realisticcitiescoder:block/vending_machine/vending_machine",
+            "uvlock": false,
+            "y": 90
+        },
+        "facing=south": {
+            "model": "realisticcitiescoder:block/vending_machine/vending_machine",
+            "uvlock": false,
+            "y": 180
+        },
+        "facing=west": {
+            "model": "realisticcitiescoder:block/vending_machine/vending_machine",
+            "uvlock": false,
+            "y": 270
+        }
+    }
+}

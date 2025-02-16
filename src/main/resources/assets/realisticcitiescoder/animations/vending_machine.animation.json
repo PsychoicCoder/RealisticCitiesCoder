@@ -1,0 +1,360 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"l4": {
+			"animation_length": 3.45833,
+			"bones": {
+				"l4": {
+					"position": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.75": {
+							"vector": [0, -1, 0.01],
+							"easing": "easeInSine"
+						},
+						"3.1667": {
+							"vector": [0, -1, 0.01]
+						},
+						"3.4583": {
+							"vector": [0, 0, 0],
+							"easing": "easeInSine"
+						}
+					}
+				}
+			},
+			"sound_effects": {
+				"0.0": {
+					"effect": "vending_machine_release"
+				}
+			}
+		},
+		"l3": {
+			"animation_length": 3.45833,
+			"start_delay": "2",
+			"bones": {
+				"l3": {
+					"position": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.75": {
+							"vector": [0, -1, 0.01],
+							"easing": "easeInSine"
+						},
+						"3.1667": {
+							"vector": [0, -1, 0.01]
+						},
+						"3.4583": {
+							"vector": [0, 0, 0],
+							"easing": "easeInSine"
+						}
+					}
+				}
+			},
+			"sound_effects": {
+				"0.0": {
+					"effect": "vending_machine_release"
+				}
+			}
+		},
+		"l2": {
+			"animation_length": 4,
+			"start_delay": "2",
+			"bones": {
+				"l2": {
+					"position": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.75": {
+							"vector": [0, -1, 0.01],
+							"easing": "easeInSine"
+						},
+						"3.1667": {
+							"vector": [0, -1, 0.01]
+						},
+						"3.4583": {
+							"vector": [0, 0, 0],
+							"easing": "easeInSine"
+						}
+					}
+				}
+			},
+			"sound_effects": {
+				"0.0": {
+					"effect": "vending_machine_release"
+				}
+			}
+		},
+		"l1": {
+			"animation_length": 4.04167,
+			"start_delay": "2",
+			"bones": {
+				"l1": {
+					"position": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.75": {
+							"vector": [0, -1, 0.01],
+							"easing": "easeInSine"
+						},
+						"3.1667": {
+							"vector": [0, -1, 0.01]
+						},
+						"3.4583": {
+							"vector": [0, 0, 0],
+							"easing": "easeInSine"
+						}
+					}
+				}
+			},
+			"sound_effects": {
+				"0.0": {
+					"effect": "vending_machine_release"
+				}
+			}
+		},
+		"l5": {
+			"animation_length": 3.45833,
+			"bones": {
+				"l5": {
+					"position": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.75": {
+							"vector": [0, -1, 0.01],
+							"easing": "easeInSine"
+						},
+						"3.1667": {
+							"vector": [0, -1, 0.01]
+						},
+						"3.4583": {
+							"vector": [0, 0, 0],
+							"easing": "easeInSine"
+						}
+					}
+				}
+			},
+			"sound_effects": {
+				"0.0": {
+					"effect": "vending_machine_release"
+				}
+			}
+		},
+		"l6": {
+			"animation_length": 3.45833,
+			"bones": {
+				"l6": {
+					"position": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.75": {
+							"vector": [0, -1, 0.01],
+							"easing": "easeInSine"
+						},
+						"3.1667": {
+							"vector": [0, -1, 0.01]
+						},
+						"3.4583": {
+							"vector": [0, 0, 0],
+							"easing": "easeInSine"
+						}
+					}
+				}
+			},
+			"sound_effects": {
+				"0.0": {
+					"effect": "vending_machine_release"
+				}
+			}
+		},
+		"flap": {
+			"animation_length": 4.25,
+			"start_delay": "1",
+			"bones": {
+				"flap": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.8333": {
+							"vector": [60, 0, 0],
+							"easing": "easeOutSine"
+						},
+						"3.0": {
+							"vector": [60, 0, 0]
+						},
+						"3.8333": {
+							"vector": [0, 0, 0],
+							"easing": "easeOutSine"
+						}
+					},
+					"position": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.8333": {
+							"vector": [0, 0.225, -0.1],
+							"easing": "easeOutSine"
+						},
+						"3.0": {
+							"vector": [0, 0.22, -0.1]
+						},
+						"3.8333": {
+							"vector": [0, 0, 0],
+							"easing": "easeOutSine"
+						}
+					}
+				}
+			},
+			"sound_effects": {
+				"0.0": {
+					"effect": "vending_machine_flap"
+				},
+				"3.0": {
+					"effect": "vending_machine_flap"
+				}
+			}
+		},
+		"animation.vending_machine.l1": {
+			"animation_length": 4.04167,
+			"bones": {
+				"l1": {
+					"position": {
+						"0.0": [0, 0, 0],
+						"0.75": [0, -1, 0.01],
+						"3.1667": [0, -1, 0.01],
+						"3.4583": [0, 0, 0]
+					}
+				}
+			},
+			"sound_effects": {
+				"0.0": {
+					"effect": "vending_machine_release"
+				}
+			}
+		},
+		"animation.vending_machine.l2": {
+			"animation_length": 4,
+			"bones": {
+				"l2": {
+					"position": {
+						"0.0": [0, 0, 0],
+						"0.75": [0, -1, 0.01],
+						"3.1667": [0, -1, 0.01],
+						"3.4583": [0, 0, 0]
+					}
+				}
+			},
+			"sound_effects": {
+				"0.0": {
+					"effect": "vending_machine_release"
+				}
+			}
+		},
+		"animation.vending_machine.l3": {
+			"animation_length": 3.45833,
+			"bones": {
+				"l3": {
+					"position": {
+						"0.0": [0, 0, 0],
+						"0.75": [0, -1, 0.01],
+						"3.1667": [0, -1, 0.01],
+						"3.4583": [0, 0, 0]
+					}
+				}
+			},
+			"sound_effects": {
+				"0.0": {
+					"effect": "vending_machine_release"
+				}
+			}
+		},
+		"animation.vending_machine.l4": {
+			"animation_length": 3.45833,
+			"bones": {
+				"l4": {
+					"position": {
+						"0.0": [0, 0, 0],
+						"0.75": [0, -1, 0.01],
+						"3.1667": [0, -1, 0.01],
+						"3.4583": [0, 0, 0]
+					}
+				}
+			},
+			"sound_effects": {
+				"0.0": {
+					"effect": "vending_machine_release"
+				}
+			}
+		},
+		"animation.vending_machine.l5": {
+			"animation_length": 3.45833,
+			"bones": {
+				"l5": {
+					"position": {
+						"0.0": [0, 0, 0],
+						"0.75": [0, -1, 0.01],
+						"3.1667": [0, -1, 0.01],
+						"3.4583": [0, 0, 0]
+					}
+				}
+			},
+			"sound_effects": {
+				"0.0": {
+					"effect": "vending_machine_release"
+				}
+			}
+		},
+		"animation.vending_machine.l6": {
+			"animation_length": 3.45833,
+			"bones": {
+				"l6": {
+					"position": {
+						"0.0": [0, 0, 0],
+						"0.75": [0, -1, 0.01],
+						"3.1667": [0, -1, 0.01],
+						"3.4583": [0, 0, 0]
+					}
+				}
+			},
+			"sound_effects": {
+				"0.0": {
+					"effect": "vending_machine_release"
+				}
+			}
+		},
+		"animation.vending_machine.flap": {
+			"animation_length": 4.25,
+			"bones": {
+				"flap": {
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"0.8333": [60, 0, 0],
+						"3.0": [60, 0, 0],
+						"3.8333": [0, 0, 0]
+					},
+					"position": {
+						"0.0": [0, 0, 0],
+						"0.8333": [0, 0.225, -0.1],
+						"3.0": [0, 0.22, -0.1],
+						"3.8333": [0, 0, 0]
+					}
+				}
+			},
+			"sound_effects": {
+				"0.0": {
+					"effect": "vending_machine_flap"
+				},
+				"3.0": {
+					"effect": "vending_machine_flap"
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

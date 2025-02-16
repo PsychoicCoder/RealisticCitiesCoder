@@ -1,0 +1,7 @@
+{
+    "parent": "realisticcitiescoder:block/traffic_light/traffic_light",
+    "textures": {
+        "0": "realisticcitiescoder:block/traffic_light/traffic_light_green",
+        "particle": "realisticcitiescoder:block/traffic_light/traffic_light_green"
+    }
+}

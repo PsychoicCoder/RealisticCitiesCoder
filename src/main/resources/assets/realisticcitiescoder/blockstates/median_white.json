@@ -1,0 +1,202 @@
+{
+    "multipart": [
+        {
+            "when": {
+                "connection": "intersection"
+            },
+            "apply": {
+                "model": "realisticcitiescoder:block/median_white/intersection"
+            }
+        },
+        {
+            "when": {
+                "AND": [
+                    {
+                        "facing": "north",
+                        "connection": "tee"
+                    }
+                ]
+            },
+            "apply": {
+                "model": "realisticcitiescoder:block/median_white/side"
+            }
+        },
+        {
+            "when": {
+                "AND": [
+                    {
+                        "facing": "east",
+                        "connection": "tee"
+                    }
+                ]
+            },
+            "apply": {
+                "model": "realisticcitiescoder:block/median_white/side_90"
+            }
+        },
+        {
+            "when": {
+                "AND": [
+                    {
+                        "facing": "south",
+                        "connection": "tee"
+                    }
+                ]
+            },
+            "apply": {
+                "model": "realisticcitiescoder:block/median_white/side_180"
+            }
+        },
+        {
+            "when": {
+                "AND": [
+                    {
+                        "facing": "west",
+                        "connection": "tee"
+                    }
+                ]
+            },
+            "apply": {
+                "model": "realisticcitiescoder:block/median_white/side_270"
+            }
+        },
+        {
+            "when": {
+                "AND": [
+                    {
+                        "facing": "north",
+                        "connection": "middle"
+                    }
+                ]
+            },
+            "apply": {
+                "model": "realisticcitiescoder:block/median_white/middle"
+            }
+        },
+        {
+            "when": {
+                "AND": [
+                    {
+                        "facing": "east",
+                        "connection": "middle"
+                    }
+                ]
+            },
+            "apply": {
+                "model": "realisticcitiescoder:block/median_white/middle_90"
+            }
+        },
+        {
+            "when": {
+                "AND": [
+                    {
+                        "facing": "east",
+                        "connection": "corner"
+                    }
+                ]
+            },
+            "apply": {
+                "model": "realisticcitiescoder:block/median_white/corner_90"
+            }
+        },
+        {
+            "when": {
+                "AND": [
+                    {
+                        "facing": "south",
+                        "connection": "corner"
+                    }
+                ]
+            },
+            "apply": {
+                "model": "realisticcitiescoder:block/median_white/corner_180"
+            }
+        },
+        {
+            "when": {
+                "AND": [
+                    {
+                        "facing": "north",
+                        "connection": "corner"
+                    }
+                ]
+            },
+            "apply": {
+                "model": "realisticcitiescoder:block/median_white/corner"
+            }
+        },
+        {
+            "when": {
+                "AND": [
+                    {
+                        "facing": "west",
+                        "connection": "corner"
+                    }
+                ]
+            },
+            "apply": {
+                "model": "realisticcitiescoder:block/median_white/corner_270"
+            }
+        },
+        {
+            "when": {
+                "AND": [
+                    {
+                        "facing": "north",
+                        "connection": "end"
+                    }
+                ]
+            },
+            "apply": {
+                "model": "realisticcitiescoder:block/median_white/end"
+            }
+        },
+        {
+            "when": {
+                "AND": [
+                    {
+                        "facing": "east",
+                        "connection": "end"
+                    }
+                ]
+            },
+            "apply": {
+                "model": "realisticcitiescoder:block/median_white/end_90"
+            }
+        },
+        {
+            "when": {
+                "AND": [
+                    {
+                        "facing": "south",
+                        "connection": "end"
+                    }
+                ]
+            },
+            "apply": {
+                "model": "realisticcitiescoder:block/median_white/end_180"
+            }
+        },
+        {
+            "when": {
+                "AND": [
+                    {
+                        "facing": "west",
+                        "connection": "end"
+                    }
+                ]
+            },
+            "apply": {
+                "model": "realisticcitiescoder:block/median_white/end_270"
+            }
+        },
+        {
+            "when": {
+                "connection": "single"
+            },
+            "apply": {
+                "model": "realisticcitiescoder:block/median_white/single"
+            }
+        }
+    ]
+}
