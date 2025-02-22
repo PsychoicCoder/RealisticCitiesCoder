@@ -15,20 +15,13 @@ import org.intellij.lang.annotations.Identifier;
 
 import static su.harbingers_of_chaos.realisticcitiescoder.RealisticCitiesCoder.*;
 public class BlocksMod {
-    public static final Block ROAD_WITH_CROSSWALK = registerBlock("road_with_crosswalk",
-            new GlazedTerracottaBlock(FabricBlockSettings.copyOf(Blocks.BLACK_CONCRETE)));
-    public static final Block ROAD_WITH_CORNER_WHITE_LINE = registerBlock("road_with_corner_white_line",
-            new GlazedTerracottaBlock(FabricBlockSettings.copyOf(Blocks.BLACK_CONCRETE)));
-    public static final Block ROAD_WITH_MIDDLE_WHITE_LINE = registerBlock("road_with_middle_corner_white_line",
-            new GlazedTerracottaBlock(FabricBlockSettings.copyOf(Blocks.BLACK_CONCRETE)));
-    public static final Block ROAD_WITH_SMALL_WHITE_LINE = registerBlock("road_with_small_corner_white_line",
-            new GlazedTerracottaBlock(FabricBlockSettings.copyOf(Blocks.BLACK_CONCRETE)));
-    public static final Block ROAD_WITH_DOUBLE_STRAIGHT_WHITE_LINE = registerBlock("road_with_double_straight_white_line",
-            new GlazedTerracottaBlock(FabricBlockSettings.copyOf(Blocks.BLACK_CONCRETE)));
-    public static final Block ROAD_WITH_STRAIGHT_WHITE_LINE = registerBlock("road_with_straight_white_line",
-            new GlazedTerracottaBlock(FabricBlockSettings.copyOf(Blocks.BLACK_CONCRETE)));
-    public static final Block ROAD_WITH_STRAIGHT_WHITE_LINE_SIDE = registerBlock("road_with_straight_white_line_side",
-            new GlazedTerracottaBlock(FabricBlockSettings.copyOf(Blocks.BLACK_CONCRETE)));
+    public static final Block ROAD_WITH_CROSSWALK                   = registerBlock("road_with_crosswalk", new GlazedTerracottaBlock(FabricBlockSettings.copyOf(Blocks.BLACK_CONCRETE)));
+    public static final Block ROAD_WITH_CORNER_WHITE_LINE           = registerBlock("road_with_corner_white_line", new GlazedTerracottaBlock(FabricBlockSettings.copyOf(Blocks.BLACK_CONCRETE)));
+    public static final Block ROAD_WITH_MIDDLE_WHITE_LINE           = registerBlock("road_with_middle_corner_white_line", new GlazedTerracottaBlock(FabricBlockSettings.copyOf(Blocks.BLACK_CONCRETE)));
+    public static final Block ROAD_WITH_SMALL_WHITE_LINE            = registerBlock("road_with_small_corner_white_line", new GlazedTerracottaBlock(FabricBlockSettings.copyOf(Blocks.BLACK_CONCRETE)));
+    public static final Block ROAD_WITH_DOUBLE_STRAIGHT_WHITE_LINE  = registerBlock("road_with_double_straight_white_line", new GlazedTerracottaBlock(FabricBlockSettings.copyOf(Blocks.BLACK_CONCRETE)));
+    public static final Block ROAD_WITH_STRAIGHT_WHITE_LINE         = registerBlock("road_with_straight_white_line", new GlazedTerracottaBlock(FabricBlockSettings.copyOf(Blocks.BLACK_CONCRETE)));
+    public static final Block ROAD_WITH_STRAIGHT_WHITE_LINE_SIDE    = registerBlock("road_with_straight_white_line_side",new GlazedTerracottaBlock(FabricBlockSettings.copyOf(Blocks.BLACK_CONCRETE)));
     private static Block registerBlock(String name, Block block) {
         registerBlockItem(name, block);
         return Registry.register(Registries.BLOCK, id(name), block);
